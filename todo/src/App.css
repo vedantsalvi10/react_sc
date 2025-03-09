@@ -1,0 +1,40 @@
+.add{
+  background-color: rgb(51, 183, 51);
+  color: white;
+  border: none;
+  font-size: 20px;
+  padding: 11px;
+  border-radius: 0px  15px 15px 0px;
+}
+.inputText{
+  background-color: rgb(49, 48, 48);
+  color: rgb(245, 237, 237);
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 15px  0px 0px 15px;
+}
+.div{
+  display: flex;
+  justify-content: center;
+}
+.delete{
+  background-color: rgb(51, 183, 51);
+  color: white;
+  border: none;
+  font-size: 15px;
+  padding: 11px;
+  border-radius: 0px  15px 15px 0px;
+}
+
+.todos{
+  list-style-type: none;
+  margin: 5px;
+}
+.todo{
+  display: inline;
+  background-color: rgb(49, 48, 48);
+  color: rgb(245, 237, 237);
+  font-size: 15px;
+  padding: 10px;
+  border-radius: 15px  0px 0px 15px;
+}  
